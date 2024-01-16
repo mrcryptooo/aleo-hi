@@ -1,4 +1,4 @@
-discord: mrcryptoo
+discord:mrcryptoo
 # HelloWorld in leo 😍
 
 ![enter image description here](https://miro.medium.com/v2/resize:fit:828/format:webp/1*ooKP0GZpCIpFzUPqR8u43w.png)
